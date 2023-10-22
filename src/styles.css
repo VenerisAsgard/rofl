@@ -1,0 +1,20 @@
+body {
+  background-color: yellow;
+}
+
+.container > *{
+  text-align: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.container > img{
+  width: 30%;
+  padding-top: 5%;
+}
+
+#counter-wrapper > p {
+  display: inline-block;
+  padding-right: 1%;
+}
